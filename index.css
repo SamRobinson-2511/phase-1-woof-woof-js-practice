@@ -15,7 +15,7 @@
 }
 
 #dog-bar {
-  height: 15vh;
+  height: 30vh;
   background: skyblue;
   display: flex;
   justify-content: space-around;
@@ -23,7 +23,7 @@
 }
 
 #dog-bar span {
-  height: 80%;
+  height: 10%;
   width: 8vw;
   display: flex;
   justify-content: center;
@@ -50,4 +50,9 @@
 
 body {
   margin: 0;
+}
+
+
+.text {
+  font-size: 10px;
 }
